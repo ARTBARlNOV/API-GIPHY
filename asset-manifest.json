@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/API-GIPHY/static/css/main.2f82a109.css",
+    "main.js": "/API-GIPHY/static/js/main.2a2b4807.js",
+    "index.html": "/API-GIPHY/index.html",
+    "main.2f82a109.css.map": "/API-GIPHY/static/css/main.2f82a109.css.map",
+    "main.2a2b4807.js.map": "/API-GIPHY/static/js/main.2a2b4807.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f82a109.css",
+    "static/js/main.2a2b4807.js"
+  ]
+}
