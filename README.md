@@ -1,2 +1,2 @@
 # API-GIPHY
-Testing some API
+Test some API
